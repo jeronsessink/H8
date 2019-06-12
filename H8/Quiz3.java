@@ -1,4 +1,4 @@
-package Quizes;
+package H8;
 
 public class Quiz3 
 {

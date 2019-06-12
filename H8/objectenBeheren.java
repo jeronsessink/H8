@@ -1,4 +1,4 @@
-package OpdrachtB;
+package H8;
 import java.util.ArrayList;
 import java.util.Scanner; 
 import javax.swing.*;

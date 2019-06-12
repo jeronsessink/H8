@@ -1,6 +1,6 @@
-package Quizes;
+package H8;
 
-import Quizes.Quiz5;
+import H8.Quiz5;
 
 public class Quiz6
 {
