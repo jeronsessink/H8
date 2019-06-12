@@ -1,4 +1,4 @@
-package H8;
+package Opdrachtenhfdstk8en9.H8;
 
 public class Quiz1 {
 	public int w = 1;

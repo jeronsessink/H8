@@ -1,4 +1,4 @@
-package H8;
+package Opdrachtenhfdstk8en9.H8;
 import java.util.ArrayList;
 import java.util.Scanner; 
 import javax.swing.*;

@@ -1,8 +1,10 @@
-package H8;
+package Opdrachtenhfdstk8en9.H8;
 
-public class Quiz2 {
+import Opdrachtenhfdstk8en9.H8.Quiz3;
+
+public class Quiz4 {
 	public static void main(String[] args) {
-		Quiz1 kb = new Quiz1();
+		Quiz3 kb = new Quiz3();
 		System.out.print(kb.w); /* 1 */
 		System.out.print(kb.x); /* 2 */
 		System.out.print(kb.y); /* 3 */

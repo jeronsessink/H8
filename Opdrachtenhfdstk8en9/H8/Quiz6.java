@@ -1,6 +1,5 @@
-package H8;
-
-import H8.Quiz5;
+package Opdrachtenhfdstk8en9.H8;
+import Opdrachtenhfdstk8en9.H8.Quiz5;
 
 public class Quiz6
 {
