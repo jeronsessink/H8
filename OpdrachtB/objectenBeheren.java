@@ -10,6 +10,9 @@ public class objectenBeheren {
 	      // frame.setSize(300,300);
 	      // frame.setVisible(true);
 		
+		//Zoals u hierboven kunt zien heb ik geprobeerd als verdieping GUI toe te voegen, maar helaas ging dit niet goed.
+		//Ik liep constant tegen errors aan, maar de rest is wel gelukt.
+		
 		@SuppressWarnings("resource")
 		Scanner keyboardInput = new Scanner(System.in);
 		
